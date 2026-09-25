@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python ml_classification.py
+python classification_ml.py
 ```
 
 ### References
